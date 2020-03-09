@@ -1,7 +1,7 @@
 # Site settings
 title: Wuhhhh Blog
 SEOTitle: #{'console.log'} system.out.print('我想说')
-header-img: img/post-bg-desk.jpg
+header-img: https://raw.githubusercontent.com/wuhhhh/picGo/master/D%3A%5CtestArea%5Cimglistwallhaven-4lpgxl.png
 email: wuhongyangcao@gmail.com
 description: "写代码，当保安"
 keyword: "BY, BY Blog, wuhhhh的博客, iOS, Apple, iPhone"
