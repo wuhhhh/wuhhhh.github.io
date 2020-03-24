@@ -1,7 +1,7 @@
 # Site settings
 title: Wuhhhh Blog
 SEOTitle: #{'console.log'} system.out.print('我想说')
-header-img: img/post-bg-desk.jpg
+header-img: https://raw.githubusercontent.com/wuhhhh/picGo/master/D%3A%5CtestArea%5Cimglistwallhaven-4lpgxl.png
 email: wuhongyangcao@gmail.com
 description: "写代码，当保安"
 keyword: "BY, BY Blog, wuhhhh的博客, iOS, Apple, iPhone"
@@ -12,7 +12,8 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "说说话吧，不然没有朋友"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://raw.githubusercontent.com/wuhhhh/picGo/master/D%3A%5CtestArea%5Cimglist%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200225123121.jpg
+     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
